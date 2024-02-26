@@ -1,0 +1,9 @@
+class Card:
+    def __init__(self):
+        ...
+        
+    def make_hod(self):
+        ...
+    
+    def get_info(self):
+        ...
